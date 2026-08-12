@@ -1,27 +1,13 @@
 {
   "schema": 1,
 
-  "latest_version": "YYYY-MM-DD",
-  "download_url": "https://example.com/download",
-
-  "minimum_safe_version": "YYYY-MM-DD",
-  "minimum_safe_reason": "Explanation of why older versions are unsafe.",
+  "latest_version": "2025-01-01",
+  "download_url": "https://share.norconsult.com/#/file/153",
 
   "messages": [
     {
-      "level": "info",
-      "text": "Nice new feature, check it out!"
-    },
-    {
       "level": "warning",
-      "text": "Message",
-      "min_version": "YYYY-MM-DD",
-      "max_version": "YYYY-MM-DD"
+      "text": "This message is published from github!",
     },
-    {
-      "level": "info",
-      "text": "Support is reduced over the summer. Don't expect a reply until September.",
-      "expires": "2026-09-01"
-    }
   ]
 }
