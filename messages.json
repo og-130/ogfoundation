@@ -8,7 +8,7 @@
     {
       "level": "warning",
       "text": "This warning message is sendt from github: https://github.com/og-130/ogfoundation/edit/main/messages.json",
-      "min_version": "2026-08-13b"
+      "min_version": "2026-08-12b"
     }
     ]
 }
