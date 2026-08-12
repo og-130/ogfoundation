@@ -6,8 +6,8 @@
 
   "messages": [
     {
-      "level": "warning",
-      "text": "This message is published from github!",
+      "level": "info",
+      "text": "This message is sendt from github: https://github.com/og-130/ogfoundation/edit/main/messages.json",
     },
   ]
 }
