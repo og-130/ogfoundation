@@ -4,7 +4,10 @@
   "latest_version": "2025-03-20",
   "download_url": "https://share.norconsult.com/#/file/153",
 
-  "messages": [ 
-
-    ]
+  "messages": [
+    {
+      "level": "info",
+      "text": "This message is sendt from github: https://github.com/og-130/ogfoundation/edit/main/messages.json",
+    },
+  ]
 }
